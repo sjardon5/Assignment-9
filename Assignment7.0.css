@@ -55,8 +55,7 @@ header p {
     position: relative;
 }
 
-.menu > li > a,
-.submenu a {
+.menu a {
     color: white;
     text-decoration: none;
     display: inline-block;
@@ -83,7 +82,7 @@ header p {
     position: absolute;
     top: 100%;
     left: 0;
-    min-width: 180px;
+    min-width: 220px;
     list-style: none;
     background-color: steelblue;
     padding: 0.25em 0;
